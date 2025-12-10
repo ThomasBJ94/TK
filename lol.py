@@ -6,7 +6,7 @@ from pydantic import BaseModel
 # ---------- APP-OPSÆTNING ----------
 
 app = FastAPI(
-    title="Lol Inventio Action",
+    title="Telika kephalaia Action",
     version="0.3.1",
     description=(
         "Topos-baseret inventio med FOR/IMOD ud fra: "
